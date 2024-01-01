@@ -5,4 +5,4 @@
 - 🏢 Software Engineer Intern (Fullstack, iOS) [@UKG](https://www.ukg.com/) in Weston, FL
 - 🧰 I build with: `Python`, `JavaScript`, `Java`, `Swift`, `React.js`,  `SwiftUI`, `Tailwind`...
 - ⚡ I enjoy music production, audio engineering, video games, and Netflix :)
-- 📫 Reach out to me: snune085@fiu.edu
+- 📫 Check out my [resume](https://sebastian-nunez.com/resume)
